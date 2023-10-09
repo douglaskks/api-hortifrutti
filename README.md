@@ -44,3 +44,5 @@
     . Finish
 
     Para testarmos iremoscolocar o comando no terminal do VS Code "node ace migration:run" para gerar as tabelas padrões do Adonis JS.
+
+### (Etapa 4) Deixando a API mais segura
